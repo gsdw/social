@@ -3,10 +3,6 @@
 ## Introduction
 
 ### install
-    composer require laravel/socialite
-    composer require gsdw/social
-
-    or add line in composer.json
     "require": {
         "laravel/socialite": "^2.0",
         "gsdw/social": "dev-master"
