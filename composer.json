@@ -9,5 +9,10 @@
             "email": "gsd@gmail.com"
         }
     ],
-    "minimum-stability": "dev"
+    "minimum-stability": "dev",
+    "autoload": {
+        "psr-4": {
+            "Gsdw\\Social\\": "src/"
+        }
+    },
 }
