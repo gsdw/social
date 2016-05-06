@@ -1,0 +1,13 @@
+{
+    "name": "gsdw/social",
+    "description": "Laravel social connect",
+    "type": "dev",
+    "license": "dev",
+    "authors": [
+        {
+            "name": "Gsd",
+            "email": "gsd@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev"
+}
