@@ -3,21 +3,12 @@
 ## Introduction
 
 ### install
-    composer require laravel/socialite
-    composer require gsdw/social
-
-    or add code to composer.json
+    add code to composer.json
     
     "require": {
         "laravel/socialite": "^2.0",
-        "gsdw/social": "dev-master"
-    },
-    "repositories": [
-        {
-            "type": "vcs",
-            "url": "https://github.com/gsdw/social"
-        }
-    ],
+        "gsdw/social": "0.1.*"
+    }
 
 ### Configuration
 
