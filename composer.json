@@ -12,8 +12,15 @@
         }
     ],
     "require": {
-        "php": ">=5.3.0"
+        "php": ">=5.3.0",
+        "gsdw/base": "dev-master"
     },
+    "repositories": [
+        {
+            "type": "vcs",
+            "url": "https://github.com/gsdw/base"
+        }
+    ],
     "minimum-stability": "dev",
     "autoload": {
         "psr-4": {
