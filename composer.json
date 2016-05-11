@@ -13,7 +13,7 @@
     ],
     "require": {
         "php": ">=5.4.0",
-        "gsdw/base": "dev-master"
+        "gsdw/base": "0.1.*"
     },
     "repositories": [
         {
